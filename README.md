@@ -1,4 +1,4 @@
 FD LAMT LOGO 使用说明
 ===========================
-![](./asserts/line_s.png)
+![](./asserts/line_s.jpg)
 
