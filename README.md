@@ -13,9 +13,9 @@ FD-LAMT LOGO 使用说明
 |版式|说明|
 |:---:|---|
 |![](./asserts/color_s.jpg)|__[彩色版本:](./LOGOs/lamtogo_color.png)__ 用于浅色底色。左边是wavefom（音频）结合电子管（计算机）元素的设计。右边横线上方为实验室简称，横线下方为实验室全称。考虑到美观和字体，University用简写 Univ. 表述；“实验室”一词用 Lab 表述。字体为标准化过后的编程用字体 JetBrains Mono.|
-|![](./asserts/bgcolor.jpg)|__[反色版本:](./LOGOs/lamtogo_white.png)__ 白色LOGO. 用于深色底色（如嵌入复旦大学的 PPT 模板中）。|
-|<img src="./asserts/icon_sample.png" width="100" height="107">|__[ICON版本:](./LOGOs/lamtogo_icon.png)__ 正方形版本。可以用于头像、图标等情况。|
 |![](./asserts/line_s.png)|__[版头 / 页脚:](./LOGOs/lamtogo_long.png)__ 长条版本.可用作对外文书或PPT的头部或页脚上（如本页最上方）。|
+|<img src="./asserts/icon_sample.png" width="100" height="107">|__[ICON版本:](./LOGOs/lamtogo_icon.png)__ 正方形版本。可以用于头像、图标等情况。|
+|![](./asserts/bgcolor.jpg)|__[反色版本:](./LOGOs/lamtogo_white.png)__ 白色LOGO. 用于深色底色（如嵌入复旦大学的 PPT 模板中）。|
 |![](./asserts/line_s_white.jpg)|__[版头 / 页脚（单色）:](./LOGOs/lamtogo_line_white.png)__ 长条单色.可用作深色对外文书或PPT的头部或页脚上（如PPT模板页脚）。|
 
 ****
