@@ -16,7 +16,7 @@ FD-LAMT LOGO 使用说明
 |![](./asserts/bgcolor.jpg)|__[反色版本:](./LOGOs/lamtogo_white.png)__ 白色LOGO. 用于深色底色（如嵌入复旦大学的 PPT 模板中）。|
 |<img src="./asserts/icon_sample.png" width="100" height="107">|__[ICON版本:](./LOGOs/lamtogo_icon.png)__ 正方形版本。可以用于头像、图标等情况。|
 |![](./asserts/line_s.png)|__[版头 / 页脚:](./LOGOs/lamtogo_long.png)__ 长条版本.可用作对外文书或PPT的头部或页脚上（如本页最上方）。|
-|![](./asserts/line_s_white.png)|__[版头 / 页脚（单色）:](./LOGOs/lamtogo_long_white.png)__ 长条单色.可用作深色对外文书或PPT的头部或页脚上（如PPT模板页脚）。|
+|![](./asserts/line_s_white.jpg)|__[版头 / 页脚（单色）:](./LOGOs/lamtogo_line_white.png)__ 长条单色.可用作深色对外文书或PPT的头部或页脚上（如PPT模板页脚）。|
 
 ****
 
